@@ -79,13 +79,13 @@ fastapi_project/
 
 ```bash
 git clone https://github.com/shervinpouryazdanpanah/FastAPI-Project-Structure.git
-cd fastapi-project
+cd FastAPI-Project-Structure
 ```
 
 ### 2️⃣ Create a virtual environment
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux & macOS
 venv\Scripts\activate     # Windows
 ```
