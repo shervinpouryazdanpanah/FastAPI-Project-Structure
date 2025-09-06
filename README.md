@@ -78,7 +78,7 @@ fastapi_project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/username/fastapi-project.git
+git clone https://github.com/shervinpouryazdanpanah/FastAPI-Project-Structure.git
 cd fastapi-project
 ```
 
